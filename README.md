@@ -8,6 +8,8 @@ Programming and Concepts Used:
 * Software: Python, Jupyter Notebook
 * Libraries: scikit-learn, pandas, hvplot, plotly
 
+Analysis:
+
 1) Prepare the data using StandardScaler() module from scikit-learn to normalize the data from the CSV file
 2) Find the best value for k using the scaled dataframe using the elbow method
 3) Cluster Cryptocurriencies with K-Means using the scaled dataframe
