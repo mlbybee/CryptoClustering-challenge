@@ -25,12 +25,12 @@ Using fewer features to cluster data with K-Means can typically provide a cleare
 The final analysis includes the following aspects:
 
 * Preprocessing the data for PCA
-![market data](market_data.png) 
+![market data](Resources/market_data.png) 
 * Reducing Data Dimensions using PCA
 * Clustering cryptocurrencies using K-Means
 * Visualizing cryptocurrencies results
-![contrast elbow](contrast_elbow.png)
-![contrast clusters](contrast_clusters.png)
+![contrast elbow](Resources/contrast_elbow.png)
+![contrast clusters](Resources/contrast_clusters.png)
 
 Support Received: Xpert Learning, StackOverflow, Class Notes
 
