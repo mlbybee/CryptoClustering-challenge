@@ -12,7 +12,7 @@ Analysis:
 
 1) Prepare the data using StandardScaler() module from scikit-learn to normalize the data from the CSV file
 2) Find the best value for k using the scaled dataframe using the elbow method
-3) Cluster Cryptocurriencies with K-Means using the scaled dataframe
+3) Cluster cryptocurriencies with K-Means using the scaled dataframe
 4) Optimize clusters with principal component analysis (PCA)
 5) Find the best value for k using the PCA dataframe
 6) Cluster cryptocurrencies with K-Means using the PCA dataframe
